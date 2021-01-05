@@ -9,3 +9,5 @@ console.log("Hello world");
 //ES6 Syntax => EcmaScript => let ya const variable declaration
 
 // let=> Block scoped variable
+
+
